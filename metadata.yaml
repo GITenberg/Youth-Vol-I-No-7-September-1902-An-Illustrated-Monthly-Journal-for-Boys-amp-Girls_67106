@@ -1,0 +1,34 @@
+_repo: Youth-Vol-I-No-7-September-1902-An-Illustrated-Monthly-Journal-for-Boys-amp-Girls_67106
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Coggins, Herbert Leonard
+    aliases:
+    - Coggins, Herbert L. Coggins
+    - Coggins, H. L.
+    birthdate: 1881
+    deathdate: 1974
+    gutenberg_agent_id: '53126'
+    url: http://www.gutenberg.org/2009/agents/53126
+    wikipedia: https://en.wikipedia.org/wiki/Herbert_L._Coggins
+description: ''
+gutenberg_issued: '2022-01-05'
+identifiers:
+  gutenberg: '67106'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433082288824&view=1up&seq=265
+pgterms:marc905: 20200613120741coggins
+pgterms:marc906: '1902'
+pgterms:marc907: US
+production_note: hekula03, sf2001, and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This book was produced from images made available by the HathiTrust
+  Digital Library.)
+publication_note: United States :The Penn Publishing Company,1902.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Youth, Vol. I, No. 7, September 1902: An Illustrated Monthly Journal for Boys
+  &amp; Girls'
+url: http://www.gutenberg.org/ebooks/67106
